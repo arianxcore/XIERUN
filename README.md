@@ -2,7 +2,7 @@
  <br>
   <a href="https://github.com/sonujana26"><img src="https://cdn.discordapp.com/avatars/1144179659735572640/7af45040da87480e78a2424691753f4d.png?size=128"></a>
   <br>
-  Olympus the Ultimate Discord Bot
+  XIERUN the Ultimate Discord Bot
   <br>
 </h1>
 I've decided to make this repo public again!!
